@@ -1,0 +1,10 @@
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\fpouchelet\Workspace\unit-testing-using-nunit\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
